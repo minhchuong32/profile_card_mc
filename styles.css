@@ -113,6 +113,7 @@ body {
 
 .but {
     display: flex;
+    justify-content: center;
 }
 
 audio {
