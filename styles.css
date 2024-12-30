@@ -27,7 +27,7 @@ body {
 
 .cover-photo {
     position: relative;
-    background: url(./images/moon.jpg);
+    background: url(./images/bg.jpg);
     background-size: cover;
     height: 253px;
     border-radius: 5px 5px 0 0;
@@ -118,4 +118,8 @@ body {
 
 audio {
     display: none;
+  }
+
+  .div {
+    text-align: left;
   }
